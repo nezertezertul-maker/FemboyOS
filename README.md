@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="../../releases/latest"><img alt="Скачать" src="https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-ISO%201.99%20%D0%93%D0%91-ff6fa3?style=for-the-badge&labelColor=111114"></a>
-  <a href="https://nezertezertul-maker.github.io/FemboyOS/"><img alt="Инструкция" src="https://img.shields.io/badge/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%9F%D0%9A-b88cff?style=for-the-badge&labelColor=111114"></a>
+  <a href="https://raw.githack.com/nezertezertul-maker/FemboyOS/main/index.html"><img alt="Инструкция" src="https://img.shields.io/badge/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%9F%D0%9A-b88cff?style=for-the-badge&labelColor=111114"></a>
   <img alt="Arch Linux" src="https://img.shields.io/badge/%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B5-Arch%20Linux-8ab4ff?style=for-the-badge&labelColor=111114">
 </p>
 
@@ -19,7 +19,7 @@
 **[⬇ Скачать ISO со страницы релиза](../../releases/latest)** — один файл, 1,99 ГБ.
 
 Как поставить на любой компьютер с BIOS / UEFI — пошагово, со скриншотами:
-**[инструкция](https://nezertezertul-maker.github.io/FemboyOS/)** (или файл [`index.html`](index.html) — скачай и открой в браузере).
+**[инструкция](https://nezertezertul-maker.github.io/FemboyOS/)** · [запасная ссылка](https://raw.githack.com/nezertezertul-maker/FemboyOS/main/index.html) · или файл [`index.html`](index.html) — скачай и открой в браузере.
 
 Коротко: запиши ISO на флешку (balenaEtcher, Rufus в режиме DD или Ventoy) → загрузись с неё (F12 / F11 / F8 / Esc) →
 если не грузится, выключи Secure Boot в BIOS → дальше всё делает установщик вместе с Фемом.
