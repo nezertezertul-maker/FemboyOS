@@ -84,4 +84,4 @@
 
 ---
 
-<sub>Femboy OS BETA 1.2 · на базе <a href="https://archlinux.org">Arch Linux</a>. Это бета: сначала попробуй в виртуальной машине или на запасном компьютере.</sub>
+<sub>Femboy OS BETA 1.3 · на базе <a href="https://archlinux.org">Arch Linux</a>. Это бета: сначала попробуй в виртуальной машине или на запасном компьютере.</sub>
